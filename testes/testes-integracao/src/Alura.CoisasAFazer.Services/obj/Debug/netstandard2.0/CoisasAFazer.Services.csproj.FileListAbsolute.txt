@@ -1,0 +1,14 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Services.deps.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Services.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Services.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Core.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Infrastructure.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Core.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\bin\Debug\netstandard2.0\CoisasAFazer.Infrastructure.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Services\obj\Debug\netstandard2.0\CoisasAFazer.Services.pdb

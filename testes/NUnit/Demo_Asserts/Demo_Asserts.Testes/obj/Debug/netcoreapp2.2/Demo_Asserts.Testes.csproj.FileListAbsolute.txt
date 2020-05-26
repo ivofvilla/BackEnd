@@ -1,0 +1,17 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.Testes.deps.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.Testes.runtimeconfig.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.Testes.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.Testes.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.Testes.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\bin\Debug\netcoreapp2.2\Demo_Asserts.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts.Testes\obj\Debug\netcoreapp2.2\Demo_Asserts.Testes.pdb

@@ -1,0 +1,17 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Testes.deps.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Testes.runtimeconfig.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Testes.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Testes.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Testes.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Core.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\bin\Debug\netcoreapp2.2\LeilaoOnline.Core.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Testes\obj\Debug\netcoreapp2.2\LeilaoOnline.Testes.pdb

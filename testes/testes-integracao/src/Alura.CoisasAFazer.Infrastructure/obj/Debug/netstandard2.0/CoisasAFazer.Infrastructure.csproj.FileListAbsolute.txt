@@ -1,0 +1,12 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\CoisasAFazer.Infrastructure.deps.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\CoisasAFazer.Infrastructure.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\CoisasAFazer.Infrastructure.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\CoisasAFazer.Core.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\bin\Debug\netstandard2.0\CoisasAFazer.Core.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\testes-integracao\src\Alura.CoisasAFazer.Infrastructure\obj\Debug\netstandard2.0\CoisasAFazer.Infrastructure.pdb

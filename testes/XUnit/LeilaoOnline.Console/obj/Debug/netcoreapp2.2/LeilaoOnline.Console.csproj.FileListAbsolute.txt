@@ -1,0 +1,14 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Console.deps.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Console.runtimeconfig.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Console.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Console.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Console.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Core.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\bin\Debug\netcoreapp2.2\LeilaoOnline.Core.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\LeilaoOnline\LeilaoOnline.Console\obj\Debug\netcoreapp2.2\LeilaoOnline.Console.pdb

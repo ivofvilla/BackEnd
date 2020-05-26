@@ -1,0 +1,27 @@
+﻿<Window x:Class="ByteBank.Agencias.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ByteBank.Agencias"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Canvas.Top="15" Canvas.Left="290">
+
+        <ListBox name="lstAgencias" Width="270" Height="270" Canvas.Top="15" Canvas.Left="15">
+            
+        </ListBox>
+        
+        <StackPanel Canvas.Top="15" Canvas.Left="290">
+            <TextBlock FontWeight="Bold">Número</TextBlock>
+            <TextBlock Name="txtNumero">Número</TextBlock>
+            <TextBlock FontWeight="Bold">Telefone</TextBlock>
+            <TextBlock Name="txtTelefone">Telefone</TextBlock>
+            <TextBlock FontWeight="Bold">Descrição</TextBlock>
+            <TextBlock Name="txtDescricao">Descrição</TextBlock>
+            <TextBlock FontWeight="Bold">Endereço</TextBlock>
+            <TextBlock Name="txtEndereco">Endereço</TextBlock>
+        </StackPanel>
+        
+    </Canvas>
+</Window>

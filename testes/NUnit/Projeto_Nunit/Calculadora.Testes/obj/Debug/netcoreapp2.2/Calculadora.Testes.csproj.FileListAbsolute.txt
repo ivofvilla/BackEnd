@@ -1,0 +1,17 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.Testes.deps.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.Testes.runtimeconfig.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.Testes.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.Testes.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.Testes.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Projeto_Nunit\Calculadora.Testes\obj\Debug\netcoreapp2.2\Calculadora.Testes.pdb

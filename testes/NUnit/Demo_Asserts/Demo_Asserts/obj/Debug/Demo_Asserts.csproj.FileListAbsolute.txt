@@ -1,0 +1,9 @@
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\bin\Debug\Demo_Asserts.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\bin\Debug\Demo_Asserts.pdb
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\bin\Debug\nunit.framework.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\bin\Debug\nunit.framework.xml
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\obj\Debug\Demo_Asserts.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\obj\Debug\Demo_Asserts.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\obj\Debug\Demo_Asserts.csproj.CopyComplete
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\obj\Debug\Demo_Asserts.dll
+C:\Users\Ivo\Desktop\Estudos\Projetos\testes\NUnit\Demo_Asserts\Demo_Asserts\obj\Debug\Demo_Asserts.pdb
